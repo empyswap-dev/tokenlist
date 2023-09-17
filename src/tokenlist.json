@@ -1,0 +1,60 @@
+{
+    "name": "opBNBswap List",
+    "timestamp": "2023-09-12T15:00:00.000Z",
+    "logoURI": "https://leetswap.finance/favicon.ico",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "name": "Wrapped BNB",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "chainId": 204,
+            "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+        },
+        {
+            "name": "leetswap.finance",
+            "address": "0xf2f41fE10D53e15Ba34e410987Eb0F986eC7509F",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 204,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "FOUR",
+            "address": "0x7DF1cF92518Bb30F2872988C720a0e994Ff19018",
+            "symbol": "FOUR",
+            "decimals": 18,
+            "chainId": 204,
+            "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1141800949871026317/photo_2023-08-16_15-18-26_2.jpg"
+        },
+        {
+          "name": "Wrapped BNB",
+          "symbol": "WBNB",
+          "address": "0x4200000000000000000000000000000000000006",
+          "chainId": 5611,
+          "decimals": 18,
+          "logoURI": "https://tokens.pancakeswap.finance/images/symbol/bnb.png"
+        },
+        {
+          "name": "PancakeSwap Token",
+          "symbol": "CAKE",
+          "address": "0xa11B290B038C35711eB309268a2460754f730921",
+          "chainId": 5611,
+          "decimals": 18,
+          "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75",
+          "chainId": 5611,
+          "decimals": 18,
+          "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+        }
+    ]
+}
